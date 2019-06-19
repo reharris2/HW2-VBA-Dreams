@@ -10,4 +10,7 @@ On my way to becoming a master programmer and financial analyst, I designed a pr
 
 Lastly, I provided a table that list the stock with the greatest % increase, greatest % increase, and the greatest total income.
 
+## Sample Data
+
+2016
 
